@@ -4,5 +4,6 @@ class Demo {
 		System.out.println("Afroz Alam")
 		System.out.println("Club Road VIP Gali")
 		System.out.println("Ward no -18")
+		System.out.println("Aurangabad")
 	}
 }
